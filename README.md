@@ -1,7 +1,6 @@
 # JavaCetvrtaVjezba
-
-4.Četvrta laboratorijska vježba
 4.1. TEMA VJEŽBE
+
 Svrha laboratorijske vježbe je korištenje zbirki iz skupina listi, setova
 i mapa te zamjena svih polja u aplikaciji sa zbirkama. U sklopu vježbe je
 također sve skupine konstanti potrebno zamijeniti enumeracijama.
